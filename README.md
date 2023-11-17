@@ -1,5 +1,5 @@
 <h1 align="center">
- <img align="center" width="120" height="120" src="./Assets/logo.png"><br>
+ <img align="center" width="120" height="120" src="./Assets/logo.png" alt="logo"><br>
  VNW - Desafio 03</a>
 </h1>
 
@@ -19,7 +19,12 @@
 
 <h1 align="center">  
   <p align="center">
-  <img width="500" height="800" src="./Assets/beat-banner.png"><br><br>
+  <img width="230" height="450" src="./Assets/mobile.png" alt="site-mobile"><br><br>
+</p>
+
+<h1 align="center">  
+  <p align="center">
+  <img width="500" height="800" src="./Assets/beat-banner.png" alt="site beat"><br><br>
 </p>
 
 </h1>
@@ -27,7 +32,7 @@
 <a id="Descrição"></a>
 ### Descrição
 
-O projeto consiste em um desafio do <a href="https://vainaweb.com.br/" target="_blank">Vai Na Web</a> onde foi proposto criar uma página para um aplicativo de músicas com as tecnologias **HTML** com **CSS** e **Javascript**.
+O projeto consiste em um desafio do <a href="https://vainaweb.com.br/" target="_blank">Vai Na Web</a> onde foi proposto criar um site **responsivo** para um aplicativo de músicas com as tecnologias **HTML** com **CSS** e **Javascript**.
 
 <a id="Tecnologias"></a>
 ### Tecnologias utilizadas
